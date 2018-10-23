@@ -34,6 +34,10 @@ var myProxyList = [
 
 ];
 
+var myDirectList = [
+
+];
+
 var lanAnProxyList = [
     "030buy.com",
     "0rz.tw",
@@ -5297,10 +5301,6 @@ var lanAnProxyList = [
     "zyzc9.com",
     "zzcartoon.com",
     "zzux.com"
-];
-
-var myDirectList = [
-
 ];
 
 // REF: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith
