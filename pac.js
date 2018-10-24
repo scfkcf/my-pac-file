@@ -1,6 +1,6 @@
 // scfkcf's PAC
 
-var proxyRule; // TODO: Define it before using
+var proxyRule = 'PROXY 127.0.0.1:31210; SOCKS5 127.0.0.1:31211; SOCKS 127.0.0.1:31211; DIRECT;'; // Note!!!
 var proxyList = myProxyList + lanAnProxyList;
 var directList = myDirectList;
 var modeList = [
@@ -31,7 +31,7 @@ function FindProxyForURL(url, host) {
 }
 
 var myProxyList = [
-
+    "slack.com"
 ];
 
 var myDirectList = [
