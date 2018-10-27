@@ -16,7 +16,8 @@ var myProxyList = [
     "nhk.or.jp",
     "bbc.co.uk",
     "bbci.co.uk",
-    "crwdcntrl.net"
+    "crwdcntrl.net",
+    "reddit.com"
 ];
 var myDirectList = [
 
