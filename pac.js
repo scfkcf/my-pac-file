@@ -9,7 +9,14 @@ var proxyModeList = [
 
 var myProxyMode = 'bypassProxyList';
 var myProxyList = [
-    "slack.com"
+    "slack.com",
+    "bluestacks.com",
+    "airserver.com",
+    "wikipedia.org",
+    "nhk.or.jp",
+    "bbc.co.uk",
+    "bbci.co.uk",
+    "crwdcntrl.net"
 ];
 var myDirectList = [
 
