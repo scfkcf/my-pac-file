@@ -23,6 +23,7 @@ var myDirectList = [
 
 ];
 
+// var proxyList = myProxyList.concat(getLanAnProxyList()).filter(function(x){ return myDirectList.indexOf(x) == -1 });
 var proxyList = myProxyList.concat(getLanAnProxyList());
 var directList = myDirectList;
 var mode = proxyModeList.indexOf(myProxyMode);
